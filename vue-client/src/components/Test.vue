@@ -1,16 +1,16 @@
 <template>
   <div>
-      <h3> Fast Api Test </h3>
-      {{ notes }}
+    <h3> Fast Api Test </h3>
+    {{ notes }}
   </div>
 </template>
 
 <script>
   export default {
-      name: "Test",
-      props: {
-          notes: [],
-      }
+    name: "Test",
+    props: {
+        notes: [],
+    }
   }
 </script>
 
