@@ -1,4 +1,4 @@
-# FastAPI Example App
+# Python RESTful Fast API
 
 This repository contains code for asynchronous example api using the [Fast Api framework](https://fastapi.tiangolo.com/) ,Uvicorn server and Postgres Database to perform crud operations on notes.
 
